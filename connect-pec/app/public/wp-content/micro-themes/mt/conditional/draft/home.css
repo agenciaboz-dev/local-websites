@@ -1,0 +1,8 @@
+
+/*= Home ====================== */
+
+/** Home >> Paragraph **/
+.wp-block-media-text__content > p {
+	text-align: right !important;
+}
+

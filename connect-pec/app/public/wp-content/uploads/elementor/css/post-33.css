@@ -1,0 +1,13 @@
+.elementor-kit-33{--e-global-color-primary:#203717;--e-global-color-secondary:#1D1D1B;--e-global-color-text:#5C7635;--e-global-color-accent:#90C84B;--e-global-color-7485460:#F7F0F5;--e-global-color-0b99562:#265101;--e-global-color-cad009a:#926644;--e-global-typography-primary-font-family:"Pavelt";--e-global-typography-primary-font-size:1.5rem;--e-global-typography-primary-font-weight:600;--e-global-typography-secondary-font-family:"Montserrat";--e-global-typography-secondary-font-size:1rem;--e-global-typography-secondary-font-weight:600;--e-global-typography-text-font-family:"Montserrat";--e-global-typography-text-font-size:1rem;--e-global-typography-text-font-weight:400;--e-global-typography-accent-font-family:"Montserrat";--e-global-typography-accent-font-size:1rem;--e-global-typography-accent-font-weight:700;}.elementor-section.elementor-section-boxed > .elementor-container{max-width:100vw;}.e-con{--container-max-width:100vw;--container-default-padding-top:0px;--container-default-padding-right:0px;--container-default-padding-bottom:0px;--container-default-padding-left:0px;}.elementor-widget:not(:last-child){margin-block-end:0px;}.elementor-element{--widgets-spacing:0px 0px;}{}h1.entry-title{display:var(--page-title-display);}.elementor-kit-33 e-page-transition{background-color:#FFBC7D;}.site-header{padding-inline-end:0px;padding-inline-start:0px;}@media(max-width:1024px){.elementor-section.elementor-section-boxed > .elementor-container{max-width:1024px;}.e-con{--container-max-width:1024px;}}@media(max-width:767px){.elementor-section.elementor-section-boxed > .elementor-container{max-width:767px;}.e-con{--container-max-width:767px;}}/* Start Custom Fonts CSS */@font-face {
+	font-family: 'Pavelt';
+	font-style: normal;
+	font-weight: normal;
+	font-display: auto;
+	src: url('http://connectpec.sandbox/wp-content/uploads/2024/04/pavelt-jrjpm.eot');
+	src: url('http://connectpec.sandbox/wp-content/uploads/2024/04/pavelt-jrjpm.eot?#iefix') format('embedded-opentype'),
+		url('http://connectpec.sandbox/wp-content/uploads/2024/04/pavelt-jrjpm.woff2') format('woff2'),
+		url('http://connectpec.sandbox/wp-content/uploads/2024/04/pavelt-jrjpm.woff') format('woff'),
+		url('http://connectpec.sandbox/wp-content/uploads/2024/04/pavelt-jrjpm.ttf') format('truetype'),
+		url('http://connectpec.sandbox/wp-content/uploads/2024/04/pavelt-jrjpm.svg#Pavelt') format('svg');
+}
+/* End Custom Fonts CSS */
